@@ -6,3 +6,9 @@ We will continue to post relevant release notes on the GitHub release page. More
 More information about our release strategy can be found in the [Development Guidelines](https://github.com/OpenConext/OpenConext-engineblock/wiki/Development-Guidelines#release-notes) on the EngineBlock wiki.
 
 ## Development
+
+### Bugfixes
+ * Optimize consent viewport on xs #573
+ * Revert suggestion title on WAYF screen #571
+ * Fix SP displayName regression #568 (thanks tvdijen)
+ * Update the IdP placeholder logo reference #574
